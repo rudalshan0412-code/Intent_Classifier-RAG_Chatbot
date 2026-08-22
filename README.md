@@ -2,7 +2,7 @@
 
 PyTorch 기반 Intent Classifier와 직접 구현한 NumPy VectorStore 및 Retriever를 결합하고, Sentence Transformer 임베딩과 Gemini API를 활용하여 구현한 TXT 문서 기반 RAG 챗봇 개인 프로젝트입니다.
 
-이 프로젝트의 주요 목적은 LangChain이나 Vector DB와 같은 고수준 프레임워크에 의존하기보다, Intent Classification과 RAG가 실제로 어떤 구조로 연결되는지 Python 코드 수준에서 직접 이해하는 것입니다.
+이 프로젝트의 주요 목적은 Intent Classification과 RAG가 실제로 어떤 구조로 연결되는지 Python 코드 수준에서 직접 이해하는 것입니다.
 
 ---
 
